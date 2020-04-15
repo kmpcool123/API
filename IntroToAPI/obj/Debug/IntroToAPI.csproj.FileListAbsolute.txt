@@ -1,0 +1,11 @@
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\IntroToAPI.exe.config
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\IntroToAPI.exe
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\IntroToAPI.pdb
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\obj\Debug\IntroToAPI.csprojAssemblyReference.cache
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\obj\Debug\IntroToAPI.csproj.CopyComplete
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\obj\Debug\IntroToAPI.exe
+C:\Users\khali\source\repos\API.Lessons\IntroToAPI\obj\Debug\IntroToAPI.pdb
